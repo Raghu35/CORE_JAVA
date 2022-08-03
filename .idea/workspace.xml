@@ -10,23 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a86e4d3-d3f9-4d96-a8db-6df50d070042" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/NarrowingTypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeCasting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeCasting1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeCasting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeCasting2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeCasting3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeCasting3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeConvoIntString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/ATypeConvoIntString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/CASTING" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/CASTING" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/NarrowingTypeCastingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/WideningTypeCastingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/WideningTypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/Variables/C_MAX_MIN_VARIABLES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/Variables/C_MAX_MIN_VARIABLES.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/Variables/Variables" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/Variables/Variables" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/Variables/b_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/Variables/b_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Overflow_underflow" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Overflow_underflow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Shortcuts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Shortcuts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/NarrowingTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/NarrowingTypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

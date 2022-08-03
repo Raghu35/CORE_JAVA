@@ -11,6 +11,7 @@ public class NarrowingTypeCasting {
         System.out.println("Before conversion: "+d);
 //fractional part lost
         System.out.println("After conversion into long type: "+l);
+        //jhgf
 //fractional part lost
         System.out.println("After conversion into int type: "+i);
     }
