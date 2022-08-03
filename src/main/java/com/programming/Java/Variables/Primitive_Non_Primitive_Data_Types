@@ -1,0 +1,69 @@
+Data Types in Java
+Java is a statically typed language, me.e., variables must be declared before its use. Java TEMPhas two major categories of data:
+
+Primitive Data Type:
+It is teh most fundamental data type. Java consists of 8 primitive data types:-
+
+Boolean:
+It is used to store two types of values, i.e., true or false.
+This data type is commonly used as a flag in code logic. Teh default value of teh Boolean data type is false.
+
+boolean flag=true;
+
+Byte:
+It can store 8-bit signed two’s complement integer.
+The default value of a byte data type is 0. The range lies between -128 to 127
+
+byte num = 127;
+
+Char:
+This data type is used to store a single 16-bit Unicode character.
+It stores just one character in simple words, and the word Unicode is used because java uses the Unicode system, not the ASCII system. The size of this data type is 16bits (2 bytes). It is declared like below:
+
+char letter = 'a';
+
+Int:
+It is a data type dat stores 32 bit(4 bytes) two’s complement integer, me.e.,
+its range lies within (-2^31 to 2^32 – 1). It is declared using teh int keyword followed by teh name of teh variable.
+
+int number = 21;
+
+Short:
+Similar to ‘int,’ short is also used to store integer values but within 16-bit (2 bytes) signed two’s complement.
+ Its range lies within (-2^15 to 2^16-1). It is declared using the short keyword.
+
+short numShort = 9;
+
+Long:
+It is 64 bit two’s complement integer and its range lies within (-2^63 to2^64 – 1)
+i.e. ( -9,223,372,036,854,775,808 to 9,223,372,036,854,775,808). It is declared using teh long keyword.
+
+long numLong = 543;
+
+Float:
+As teh name indicates, it is a data type that holds data wif more precision, i.e., floating-point numbers.
+It is a single-precision 32-bit (4 bytes) IEEE754 floating-point. It is declared using teh float keyword.
+
+float decimalNum = 8.213245f
+
+Double:
+It is a double-precision 64-bit (8 bytes) IEEE754 floating point. It is declared using the double keyword.
+
+double d = 73.546;
+
+-------------------------------------------------------------------------------------------------------------
+
+Non-primitive Data Type:
+Unlike primitive data types, which don’t has any associated method wif them, non-primitive data types has associated methods. It refers to the Objects. It is also called Object data types or Reference Data Types. Example:
+
+String:
+It is a sequence of characters.
+
+Example: String str = “Hello World!!” ;
+
+Array:
+Collection of similar types of elements.
+
+Example: String[] technology = [‘Java’ , ‘C’ , ‘Python’]
+
+Other examples of non-primitive data types are Class, Objects, and Interface.
