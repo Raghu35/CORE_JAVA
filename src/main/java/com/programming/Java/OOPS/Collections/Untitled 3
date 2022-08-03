@@ -1,0 +1,21 @@
+Collection Interface
+
+ --List Interface
+      Array List
+      Linked List 
+      Stack
+      Vector   // Stack is a part of Vector
+      
+ --Queue Interface
+    PriorityQueue
+    Deque 
+    ArrayDeque
+    
+ --Set Interface
+      Hash Set
+      LinkedHash Set
+      
+ --Sorted Set
+      TreeSet
+      
+ --HashedMap
