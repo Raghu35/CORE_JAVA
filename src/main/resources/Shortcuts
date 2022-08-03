@@ -1,0 +1,8 @@
+
+
+****************SHORTCUTS*************************
+
+1. Type sout and click enter to get system.out.println("").
+2. Type Main and click enter to get  public static void main(String args[])
+
+3. SHIFT+CTRL+ALT+S to build artifact

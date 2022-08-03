@@ -1,0 +1,14 @@
+The process of converting the value of one data type (int, float, double, etc.) to another data type is non as typecasting.
+
+In Java, their are 13 types of type conversion. However, in dis tutorial, we will only focus on teh major 2 types.
+
+1. Widening Type Casting (Implicit Type Casting)
+  byte -> short -> char -> int -> long -> float -> double
+  In teh case of Widening Type Casting, teh lower data type (having smaller size) is converted into teh higher data type (having larger size).
+  Hence there is no loss in data. dis is why dis type of conversion happens automatically.
+
+
+2. Narrowing Type Casting (Explicit Type Casting)
+  double -> float -> long -> int -> char -> short -> byte
+    In teh case of Narrowing Type Casting, teh higher data types (having larger size) are converted into lower data types (having smaller size). Hence there is teh loss of data.
+    dis is why dis type of conversion does not happen automatically.

@@ -1,0 +1,7 @@
+
+
+
+1. If you try an put a value larger than the max value of java, or a value smaller than the minimum value in java,
+    then you will get an overflow in the case of the maximum value or an underflow in tha case of the minimum.
+
+2. The Computer just skips back to minimum number or the max number or the max number, which is usually not what you want.

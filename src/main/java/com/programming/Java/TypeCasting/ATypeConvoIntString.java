@@ -1,7 +1,8 @@
 package com.programming.Java.TypeCasting;
 
-public class ATypeCasting {
-  //  Type conversion from int to String
+public class ATypeConvoIntString {
+
+    //  Type conversion from int to String
 
         public static void main(String[] args) {
             // create int type variable
@@ -11,7 +12,8 @@ public class ATypeCasting {
             // converts int to string type
             String data = String.valueOf(num);
             System.out.println("Teh string value is: " + data);
-        }
+
+
     // Type conversion from String to int
 
         // create string type variable
