@@ -9,8 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a86e4d3-d3f9-4d96-a8db-6df50d070042" name="Changes" comment="Non-primitive Data Type&#10;primitive Data Type">
+    <list default="true" id="1a86e4d3-d3f9-4d96-a8db-6df50d070042" name="Changes" comment="just">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/NarrowingTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/TypeCasting/NarrowingTypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +30,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="master" />
-      </list>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,18 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Raghu A S/IdeaProjects/CORE_JAVA",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Astraction_1">
+}</component>
+  <component name="RunManager" selected="Application.NarrowingTypeCasting">
     <configuration name="ATypeConvoIntString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.ATypeConvoIntString" />
       <module name="CORE_JAVA" />
@@ -83,6 +78,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.Dog" />
+      <module name="CORE_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NarrowingTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.NarrowingTypeCasting" />
+      <module name="CORE_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NarrowingTypeCastingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.NarrowingTypeCastingExample" />
       <module name="CORE_JAVA" />
@@ -96,39 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.programming.Java.TypeCasting.ATypeCasting3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.ATypeCasting3" />
-      <module name="CORE_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.programming.Java.TypeCasting.TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.TypeCasting" />
-      <module name="CORE_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NarrowingTypeCasting" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.Astraction_1" />
         <item itemvalue="Application.NarrowingTypeCastingExample" />
         <item itemvalue="Application.ATypeConvoIntString" />
-        <item itemvalue="Application.com.programming.Java.TypeCasting.TypeCasting" />
-        <item itemvalue="Application.com.programming.Java.TypeCasting.ATypeCasting3" />
       </list>
     </recent_temporary>
   </component>
@@ -141,35 +136,6 @@
       <option name="presentableId" value="Default" />
       <updated>1656691475264</updated>
     </task>
-    <task id="LOCAL-00001" summary="just">
-      <created>1659523014804</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1659523014804</updated>
-    </task>
-    <task id="LOCAL-00002" summary="just">
-      <created>1659523444591</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1659523444591</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Non-primitive Data Type&#10;primitive Data Type">
-      <created>1659523991674</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1659523991674</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Non-primitive Data Type&#10;primitive Data Type">
-      <created>1659524592788</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1659524592788</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,16 +143,38 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="just" />
-    <MESSAGE value="Non-primitive Data Type&#10;primitive Data Type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Non-primitive Data Type&#10;primitive Data Type" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
