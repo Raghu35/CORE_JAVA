@@ -9,8 +9,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a86e4d3-d3f9-4d96-a8db-6df50d070042" name="Changes" comment="Added Casting Classes">
+    <list default="true" id="1a86e4d3-d3f9-4d96-a8db-6df50d070042" name="Changes" comment="Added important string to int , vice versa classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Constructors/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Constructors/default_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Encapsulation_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Bytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Starts_Ends_With.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Upper_Lower_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_to_Char_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Encapsulation_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Encapsulation_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Enums/Enums_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Enums/Enums_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/Strings_link" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/Strings_link" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +68,18 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NarrowingTypeCasting">
-    <configuration name="ATypeConvoIntString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.ATypeConvoIntString" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Raghu A S\IdeaProjects\CORE_JAVA\src\main\java\com\programming\Java\OOPS\Basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Char_to_String">
+    <configuration name="Char_to_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.Char_to_String" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Astraction_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Abstraction.Astraction_1" />
+    <configuration name="String_Starts_Ends_With" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_Starts_Ends_With" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.OOPS.Abstraction.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.Dog" />
+    <configuration name="com.programming.Java.OOPS.Strings.String_Bytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_Bytes" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NarrowingTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.NarrowingTypeCasting" />
+    <configuration name="com.programming.Java.OOPS.Strings.String_Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_Equals" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NarrowingTypeCastingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.TypeCasting.NarrowingTypeCastingExample" />
+    <configuration name="com.programming.Java.OOPS.Strings.String_to_Char_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_to_Char_Array" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.TypeCasting.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NarrowingTypeCasting" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Astraction_1" />
-        <item itemvalue="Application.NarrowingTypeCastingExample" />
-        <item itemvalue="Application.ATypeConvoIntString" />
+        <item itemvalue="Application.Char_to_String" />
+        <item itemvalue="Application.String_Starts_Ends_With" />
+        <item itemvalue="Application.com.programming.Java.OOPS.Strings.String_Bytes" />
+        <item itemvalue="Application.com.programming.Java.OOPS.Strings.String_to_Char_Array" />
+        <item itemvalue="Application.com.programming.Java.OOPS.Strings.String_Equals" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659592566552</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added important string to int , vice versa classes">
+      <created>1659594182302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659594182302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +186,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="feature1" />
                       </list>
                     </value>
                   </entry>
@@ -183,7 +215,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Casting Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Casting Classes" />
+    <MESSAGE value="Added important string to int , vice versa classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added important string to int , vice versa classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,6 +276,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/programming/Java/Variables/a_Variables.java</url>
           <line>15</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Encapsulation_1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

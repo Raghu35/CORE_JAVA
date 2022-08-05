@@ -23,4 +23,8 @@ public class Enums_1 {
 		    System.out.println(myVar);
 		  }
 		}
-
+		/* Enumeration means a list of named constants. In Java, enumeration defines a class type.
+		An Enumeration can has constructors, methods, and instance variables.
+		It is created using the enum keyword. Each enumeration constant is public, static, and final by default.
+		Even though enumeration defines a class type and has constructors, you do not instantiate an enum using new.
+		Enumeration variables are used and declared in much the same way as you do a primitive variable.*/
