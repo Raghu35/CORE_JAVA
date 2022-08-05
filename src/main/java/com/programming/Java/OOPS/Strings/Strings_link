@@ -1,1 +1,16 @@
 https://www.edureka.co/blog/java-string/
+https://www.edureka.co/blog/java-string/
+
+
+In Java, a string is an object that represents a sequence of characters or char values. The java.lang.String class is used to create a Java string object.
+
+their are two ways to create a String object:
+
+By string literal :
+Java String literal is created by using double quotes.
+For Example: String s=“Welcome”;
+
+By new keyword :
+Java String is created by using a keyword “new”.
+For example: String s=new String(“Welcome”);
+It creates two objects (in String pool and in heap) and one reference variable where teh variable ‘s’ will refer to teh object in teh heap.
