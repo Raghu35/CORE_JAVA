@@ -9,33 +9,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a86e4d3-d3f9-4d96-a8db-6df50d070042" name="Changes" comment="Added important string to int , vice versa classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Constructors/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Constructors/default_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Encapsulation_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/StringOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Bytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Starts_Ends_With.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Trim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Upper_Lower_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_to_Char_Array.java" afterDir="false" />
+    <list default="true" id="1a86e4d3-d3f9-4d96-a8db-6df50d070042" name="Changes" comment="Added important string classes">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Singleton/Singelton_theroy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Singleton/singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_CharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_EqualIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Splits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_ValueOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-08-2022_08_01_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-08-2022_08_01_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Encapsulation_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Encapsulation/Encapsulation_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Enums/Enums_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Enums/Enums_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/Strings_link" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/Strings_link" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Array_List1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/List/Array_List1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Array_List2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/List/Array_List2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Hash_Map1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Map/Hash_Map1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Hash_Set1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Set/Hash_Set1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Linked_List1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/List/Linked_List1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Queue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Queue/Queue1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/List/Stack1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/TreeSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Set/TreeSet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Collections/List/Vector1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Bytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_GetBytes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programming/Java/OOPS/Strings/String_Replace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,11 +51,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/feature1" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2BLhr6vMLglap0I60Q4zjI8g3FH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -63,6 +76,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Raghu A S/IdeaProjects/CORE_JAVA&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -72,14 +86,20 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Raghu A S\IdeaProjects\CORE_JAVA\src\main\java\com\programming\Java\OOPS\Basics" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.programming.Java.OOPS.Collections.Queue" />
+      <recent name="com.programming.Java.OOPS.Collections.Map" />
+      <recent name="com.programming.Java.OOPS.Collections.List" />
+      <recent name="com.programming.Java.OOPS.Collections.Set" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Char_to_String">
-    <configuration name="Char_to_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.Char_to_String" />
+  <component name="RunManager" selected="Application.Hash_Map1">
+    <configuration name="Array_List2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Collections.List.Array_List2" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Collections.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Starts_Ends_With" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_Starts_Ends_With" />
+    <configuration name="Hash_Map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Collections.Map.Hash_Map1" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Collections.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.programming.Java.OOPS.Strings.String_Bytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_Bytes" />
+    <configuration name="Hash_Set1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Collections.Set.Hash_Set1" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Collections.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.programming.Java.OOPS.Strings.String_Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_Equals" />
+    <configuration name="TreeSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Collections.Set.TreeSet1" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Collections.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.programming.Java.OOPS.Strings.String_to_Char_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Strings.String_to_Char_Array" />
+    <configuration name="com.programming.Java.OOPS.Collections.List.Array_List1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.Java.OOPS.Collections.List.Array_List1" />
       <module name="CORE_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.Java.OOPS.Strings.*" />
+          <option name="PATTERN" value="com.programming.Java.OOPS.Collections.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +161,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Char_to_String" />
-        <item itemvalue="Application.String_Starts_Ends_With" />
-        <item itemvalue="Application.com.programming.Java.OOPS.Strings.String_Bytes" />
-        <item itemvalue="Application.com.programming.Java.OOPS.Strings.String_to_Char_Array" />
-        <item itemvalue="Application.com.programming.Java.OOPS.Strings.String_Equals" />
+        <item itemvalue="Application.Hash_Map1" />
+        <item itemvalue="Application.TreeSet1" />
+        <item itemvalue="Application.Hash_Set1" />
+        <item itemvalue="Application.com.programming.Java.OOPS.Collections.List.Array_List1" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659594182302</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added important string classes">
+      <created>1659706048706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659706048706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,7 +212,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature1" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -216,7 +242,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Casting Classes" />
     <MESSAGE value="Added important string to int , vice versa classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added important string to int , vice versa classes" />
+    <MESSAGE value="Added important string classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added important string classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

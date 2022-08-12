@@ -1,0 +1,13 @@
+The singleton design pattern is used to restrict the instantiation of a class and
+ensures that only one instance of the class exists in the JVM.
+
+In other words, a singleton class is a class that can has only one object (an instance of the class) at a time per JVM instance.
+
+
+
+Singleton class means you can create only one object for the given class.
+
+You can create a singleton class by making its constructor private so dat you can restrict the creation of the object.
+
+Provide a static method to get an instance of the object, wherein you ca handle the object creation inside the class only.
+In this example, we are creating an object by using a static block.

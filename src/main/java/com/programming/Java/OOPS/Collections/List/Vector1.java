@@ -1,4 +1,4 @@
-package com.programming.Java.OOPS.Collections;
+package com.programming.Java.OOPS.Collections.List;
 
 /*Vector
  * Vector uses a dynamic array to store the data elements. 

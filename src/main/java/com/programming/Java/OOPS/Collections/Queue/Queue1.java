@@ -1,4 +1,4 @@
-package com.programming.Java.OOPS.Collections;
+package com.programming.Java.OOPS.Collections.Queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

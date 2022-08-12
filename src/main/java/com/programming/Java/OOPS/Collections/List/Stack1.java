@@ -1,4 +1,4 @@
-package com.programming.Java.OOPS.Collections;
+package com.programming.Java.OOPS.Collections.List;
 /*
  * Stack
  * The stack is the subclass of Vector. 

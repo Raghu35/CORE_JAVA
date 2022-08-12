@@ -1,6 +1,8 @@
-package com.programming.Java.OOPS.Collections;
+package com.programming.Java.OOPS.Collections.Set;
 //TreeSet
-//Java TreeSet class implements the Set interface dat uses a tree for storage. Like HashSet, TreeSet also contains unique elements. However, the access and retrieval time of TreeSet is quite fast. The elements in TreeSet stored in ascending order.
+//Java TreeSet class implements the Set interface dat uses a tree for storage.
+// Like HashSet, TreeSet also contains unique elements.
+// However, the access and retrieval time of TreeSet is quite fast. The elements in TreeSet stored in ascending order.
 //
 //Consider teh following example:
 

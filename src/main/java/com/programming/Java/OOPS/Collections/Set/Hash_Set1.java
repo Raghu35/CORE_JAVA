@@ -1,4 +1,4 @@
-package com.programming.Java.OOPS.Collections;
+package com.programming.Java.OOPS.Collections.Set;
 
 // Import the HashSet class
 import java.util.HashSet;
@@ -20,7 +20,7 @@ import java.util.HashSet;
 	    cars.remove("Volvo");
 	    
 	    //To remove all items, use the clear() method:
-	    cars.clear();
+	    //cars.clear();
 	    
 	    //HashSet Size
 	    cars.size();

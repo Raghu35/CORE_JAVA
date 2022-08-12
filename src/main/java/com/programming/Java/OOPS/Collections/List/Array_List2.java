@@ -1,4 +1,4 @@
-package com.programming.Java.OOPS.Collections;
+package com.programming.Java.OOPS.Collections.List;
 
 import java.util.ArrayList;
 import java.util.Collections;

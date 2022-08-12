@@ -1,4 +1,4 @@
-package com.programming.Java.OOPS.Collections;
+package com.programming.Java.OOPS.Collections.Map;
 
 /*In the ArrayList chapter, you learned that Arrays store items as an ordered collection, 
  * and you has to access them with an index number (int type). 
@@ -37,11 +37,11 @@ import java.util.HashMap;
 	    //Loop Through a HashMap
 	    // Print keys
 	    for (String i : capitalCities.keySet()) {
-	      System.out.println(i);
+	      System.out.println("Keys " + i); }
 	      
 	   // Print values
 	      for (String j : capitalCities.values()) {
-	        System.out.println(j);
+	        System.out.println("values " +j);
 	      }
 	      
 	   // Print keys and values
@@ -53,6 +53,6 @@ import java.util.HashMap;
 	    }
 	    
 	  }
-	}
+
 
 
