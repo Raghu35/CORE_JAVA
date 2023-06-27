@@ -13,7 +13,7 @@ public class Array_List1 {
     cars.add("Mazda");
     System.out.println(cars);
     
-    //Access
+    //Accesses
     System.out.println(cars.get(0));
     
     //Change an Item
