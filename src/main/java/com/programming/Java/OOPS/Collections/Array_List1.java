@@ -16,7 +16,7 @@ public class Array_List1 {
     //Accesses
     System.out.println(cars.get(0));
     
-    //Change an Item
+    //Change an Items
     cars.set(0, "Opel");
     System.out.println(cars);
     
