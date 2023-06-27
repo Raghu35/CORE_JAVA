@@ -1,7 +1,8 @@
 package com.programming.Java.OOPS.Abstraction;
 
 	// Code from filename: Person.java
-	// abstract class
+	// abstract classes
+
 	abstract class Person {
 	  public String fname = "John";
 	  public int age = 24;
